@@ -1,0 +1,25 @@
+{
+  "id": "Haigen.TreasureTroveCove",
+  "title": "TreasureTroveCove",
+  "author": "Haigen",
+  "description": "Treasure Trove Cove from Banjo-Kazooie as a playable map!",
+  "version": "1.0.0",
+  "enabled": true,
+  "thunderstore_id": "Haigen-TreasureTroveCove",
+  "categories": [
+    "Client Side",
+    "Maps",
+    "Mods",
+    "Server Side"
+  ],
+  "downloads": 0,
+  "likes": 0,
+  "last_updated": "",
+  "is_deprecated": false,
+  "has_nsfw_content": false,
+  "website": "https://github.com/Haigen/webfishing-ttc",
+  "updated_on": 0,
+  "dependencies": [
+    "Sulayre.Lure"
+  ]
+}
