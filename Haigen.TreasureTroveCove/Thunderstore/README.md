@@ -1,0 +1,1 @@
+This is a custom map for Webfishing. It requires Lure and GDWeave to use.
