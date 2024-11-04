@@ -1,9 +1,10 @@
 {
-    "Id": "Haigen.TreasureTroveCove",
-    "PackPath": "Haigen.TreasureTroveCove.pck",
     "name": "TreasureTroveCove",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Haigen/webfishing-ttc",
     "description": "Treasure Trove Cove from Banjo-Kazooie as a playable map!",
-    "dependencies" : ["Sulayre.Lure"]
+    "dependencies": [
+        "NotNet-GDWeave-2.0.13",
+        "Sulayre-Lure-3.3.0"
+    ]
 }

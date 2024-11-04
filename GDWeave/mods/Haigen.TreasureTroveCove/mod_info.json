@@ -1,0 +1,9 @@
+{
+  "id": "Haigen.TreasureTroveCove",
+  "title": "TreasureTroveCove",
+  "author": "Haigen",
+  "description": "Treasure Trove Cove from Banjo-Kazooie as a playable map!",
+  "version": "1.0.0",
+  "enabled": true,
+  "third_party": true
+}
