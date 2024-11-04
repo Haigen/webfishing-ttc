@@ -12,13 +12,10 @@
     "Mods",
     "Server Side"
   ],
-  "downloads": 0,
-  "likes": 0,
-  "last_updated": "",
+  "third_party": true,
   "is_deprecated": false,
   "has_nsfw_content": false,
   "website": "https://github.com/Haigen/webfishing-ttc",
-  "updated_on": 0,
   "dependencies": [
     "Sulayre.Lure"
   ]
