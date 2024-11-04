@@ -1,11 +1,11 @@
 {
   "Id": "Haigen.TreasureTroveCove",
-  "PackPath": "Haigen.TreasureTroveCove.pck",
+  "PackPath": "TreasureTroveCove.pck",
   "Dependencies": ["Sulayre.Lure"],
   "Metadata": {
     "Name": "Treasure Trove Cove",
     "Author": "haigen",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "Treasure Trove Cove from Banjo-Kazooie as a playable map!"
 }
 }
