@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/TheSaltyHippo.ogg-9c4e7a4f42cf9bf908ee01e063726e0b.oggstr"
+
+[deps]
+
+source_file="res://mods/Haigen.TreasureTroveCove/Assets/Audio/TheSaltyHippo.ogg"
+dest_files=[ "res://.import/TheSaltyHippo.ogg-9c4e7a4f42cf9bf908ee01e063726e0b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

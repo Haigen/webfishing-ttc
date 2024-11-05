@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/InsideNippersShell.ogg-20aaba38f8564207d846851329e087a7.oggstr"
+
+[deps]
+
+source_file="res://mods/Haigen.TreasureTroveCove/Assets/Audio/InsideNippersShell.ogg"
+dest_files=[ "res://.import/InsideNippersShell.ogg-20aaba38f8564207d846851329e087a7.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

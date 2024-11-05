@@ -26,32 +26,33 @@ light_energy = 0.12
 light_negative = true
 
 [node name="spawn_position" type="Position3D" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 51.2834, 3.95399, -29.5313 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.071111, -2.3966, -0.213597 )
 
 [node name="tutorial_spawn_position" type="Position3D" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 275.719, 1.27741, -382.338 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 275.719, -7.31555, -382.338 )
 
 [node name="zones" type="Node" parent="."]
 
 [node name="tent_zone" parent="zones" instance=ExtResource( 10 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.501282, 0.713387, -784.837 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.501282, -7.87957, -784.837 )
 
 [node name="hub_building_zone" parent="zones" instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 128.986, -0.909164, -785.083 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 128.986, -9.50212, -785.083 )
 
 [node name="aquarium_zone" parent="zones" instance=ExtResource( 5 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -131.437, 3.33302, -844.975 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -131.437, -5.25994, -844.975 )
 
 [node name="tutorial_zone" parent="zones" instance=ExtResource( 7 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 523.682, 0.227589, -797.235 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 523.682, -8.36537, -797.235 )
 
 [node name="island_tiny_zone" parent="zones" instance=ExtResource( 8 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1261.2, 2.351, 0.904 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1261.2, -6.24196, 0.904 )
 
 [node name="island_med_zone" parent="zones" instance=ExtResource( 6 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1261.2, 2.351, 1278.9 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1261.2, -6.24196, 1278.9 )
 
 [node name="island_big_zone" parent="zones" instance=ExtResource( 9 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -11.8, 2.351, 1277.9 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -11.8, -6.24196, 1277.9 )
 
 [node name="main_zone" parent="zones" instance=ExtResource( 11 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -2.1357, 0 )
